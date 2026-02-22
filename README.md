@@ -111,5 +111,13 @@ Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em 
 <br/>
 <br/>
 
+---
+### 📊 Estatísticas
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heloisabolognesi&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heloisabolognesi&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heloisabolognesi&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heloisabolognesi&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heloisabolognesi&theme=midnight_purple&utcOffset=8)
 
 
