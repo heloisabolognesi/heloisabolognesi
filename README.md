@@ -4,7 +4,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Heloísa Bolognesi, tenho 17 anos e sou estudante do Ensino Médio no SESI, cursando o Técnico em Desenvolvimento de Sistemas pelo SENAI. Sou apaixonada por tecnologia e programação, e adoro criar projetos que unem aprendizado e criatividade.
+Me chamo Heloísa Bolognesi, tenho 18 anos e sou estudante do Ensino Médio no SESI, cursando o Técnico em Desenvolvimento de Sistemas pelo SENAI. Sou apaixonada por tecnologia e programação, e adoro criar projetos que unem aprendizado e criatividade.
 
 Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em soluções reais, e estou sempre em busca de aprender e aplicar meus conhecimentos em projetos que gerem impacto.
 
